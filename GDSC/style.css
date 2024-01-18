@@ -1,0 +1,233 @@
+* {
+  margin: 0;
+}
+.main_img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+  box-sizing: content-box;
+}
+.img1 {
+  position: absolute;
+  top: 1%;
+  height: 40px;
+  width: auto;
+  margin-left: 10px;
+}
+
+.p1 {
+  font-family: sans-serif;
+  position: absolute;
+  top: 6%;
+  color: white;
+  font-size: 9px;
+  margin-left: 13px;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.img2 {
+  position: absolute;
+  top: 10%;
+  height: 40px;
+  width: auto;
+  margin-left: 10px;
+}
+
+.p2 {
+  font-family: sans-serif;
+  position: absolute;
+  top: 15%;
+  color: white;
+  font-size: 9px;
+  margin-left: 10px;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+}
+
+.img3 {
+  position: absolute;
+  top: 19%;
+  height: 40px;
+  width: auto;
+  margin-left: 10px;
+}
+
+.p3 {
+  font-family: sans-serif;
+  position: absolute;
+  top: 23%;
+  color: white;
+  font-size: 9px;
+  margin-left: 15px;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.img4 {
+  position: absolute;
+  top: 27%;
+  height: 40px;
+  width: auto;
+  margin-left: 10px;
+}
+
+.p4 {
+  font-family: sans-serif;
+  position: absolute;
+  top: 32%;
+  color: white;
+  font-size: 9px;
+  margin-left: 15px;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.img5 {
+  position: absolute;
+  top: 35%;
+  height: 40px;
+  width: auto;
+  margin-left: 10px;
+}
+
+.p5 {
+  font-family: sans-serif;
+  position: absolute;
+  top: 40%;
+  color: white;
+  font-size: 9px;
+  margin-left: 15px;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.lenovo1 {
+  top: 2%;
+  right: 1%;
+  position: absolute;
+  width: 290px;
+  height: 320px;
+  background-color: #252525;
+  border: 0px solid #2980b9;
+  border-radius: 10px;
+  opacity: 0.7;
+}
+
+.lenovo2 {
+  top: 7%;
+  right: 2%;
+  position: absolute;
+  width: 250px;
+  height: 230px;
+  background: linear-gradient(45deg, #2cb6a1 10%, #062e70 90%);
+  border: 0px solid #2980b9;
+  border-radius: 10px;
+  opacity: 1;
+}
+.B {
+  position: absolute;
+  top: 3%;
+  margin-left: 15px;
+  font-family: sans-serif;
+  color: white;
+  font-weight: bold;
+}
+.bh {
+  position: absolute;
+  width: 10%;
+  height: auto;
+  right: 3.5%;
+  top: 3.5%;
+}
+.per {
+  top: 15%;
+  position: absolute;
+  margin-left: 21px;
+  font-family: sans-serif;
+  font-size: 40px;
+  color: white;
+}
+.time {
+  top: 21%;
+  right: 21%;
+  position: absolute;
+  margin-left: 50px;
+  font-family: sans-serif;
+  font-size: 11px;
+  color: white;
+}
+
+.bt {
+  position: absolute;
+  width: 10%;
+  height: auto;
+  left: 10%;
+  top: 80%;
+}
+
+.circle1 {
+  position: absolute;
+  left: 7%;
+  top: 77%;
+  width: 40px;
+  height: 40px;
+  background-color: #28a290;
+  border-radius: 50%;
+  opacity: 0.2;
+}
+
+.th {
+  position: absolute;
+  width: 15%;
+  height: auto;
+  left: 30%;
+  top: 78%;
+}
+
+.circle2 {
+  position: absolute;
+  left: 27%;
+  top: 77%;
+  width: 40px;
+  height: 40px;
+  background-color: #28a290;
+  border-radius: 50%;
+  opacity: 0.2;
+}
+
+.mic {
+  position: absolute;
+  width: 10%;
+  height: auto;
+  left: 53%;
+  top: 80%;
+}
+
+.circle3 {
+  position: absolute;
+  left: 50%;
+  top: 77%;
+  width: 40px;
+  height: 40px;
+  background-color: #28a290;
+  border-radius: 50%;
+  opacity: 0.2;
+}
+
+.cam {
+  position: absolute;
+  width: 10%;
+  height: auto;
+  left: 78%;
+  top: 80%;
+}
+
+.circle4 {
+  top: 77%;
+  position: absolute;
+  left: 75%;
+  width: 40px;
+  height: 40px;
+  background-color: #28a290;
+  border-radius: 50%;
+  opacity: 0.2;
+}
